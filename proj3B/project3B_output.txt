@@ -1,0 +1,27 @@
+Please enter an integer or a string (empty to exit): 
+You entered the string: "will"
+Please enter an integer or a string (empty to exit): 
+You entered the string: "be"
+Please enter an integer or a string (empty to exit): 
+You entered the string: "I"
+Please enter an integer or a string (empty to exit): 
+You entered the string: "unscrambled!"
+Please enter an integer or a string (empty to exit): 
+You entered the number: 2
+Please enter an integer or a string (empty to exit): 
+You entered the number: 3
+Please enter an integer or a string (empty to exit): 
+You entered the number: 1
+Please enter an integer or a string (empty to exit): 
+You entered the number: 4
+Please enter an integer or a string (empty to exit): 
+
+Printing string deque
+I will be unscrambled! 
+
+Printing long deque
+1 2 3 4 
+
+Removing string deque data using count
+
+Removing long deque data using count
